@@ -1,4 +1,4 @@
-# jovinjp.Pacman-Exercise
+#  https://jovinjp.github.io/Pacman-Exercise/
 
 <h1>Pacman Exercise</h1>
 <h2>Brief Description</h2>
