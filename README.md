@@ -1,4 +1,6 @@
-#  https://jovinjp.github.io/Pacman-Exercise/
+# Pacman-Exercise
+https://jovinjp.github.io/Pacman-Exercise/
+<img src= "pacman" width = "200"/>
 
 <h1>Pacman Exercise</h1>
 <h2>Brief Description</h2>
