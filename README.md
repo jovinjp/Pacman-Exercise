@@ -1,7 +1,6 @@
 # Pacman-Exercise
-https://jovinjp.github.io/Pacman-Exercise/
 
-<img src= "PacMan1.png" width = "200"/>
+https://jovinjp.github.io/Pacman-Exercise/
 
 <h1>Pacman Exercise</h1>
 <h2>Brief Description</h2>
